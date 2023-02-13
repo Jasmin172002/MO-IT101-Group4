@@ -1,0 +1,30 @@
+J&J Company Payroll
+
+Employee Number: 10001
+Name: Jose Crisostomo
+Status: Regular
+Position: HR Manager
+Immediate Supervisor: N/A
+Birthday: February 14, 1988
+
+Hours Worked from 1/9/2022-1/13/2022:
+1/9/2022:8
+1/10/2022:8
+1/11/2022:8
+1/12/2022:8
+1/13/2022:8
+
+Total Hours Worked: 40
+Hourly Rate: 373.04
+
+Gross Income: 14921.6
+
+SSS:267.85714285714283
+Philhealth:223.824
+Pag-ibig:298.432
+Total Government Deduction:790.113142857143
+
+Net Income (without Tax): 14131.486857142858
+
+Tax:1697.5740952380952
+Total Net Income12433.912761904761
